@@ -1,0 +1,36 @@
+body{
+    background-color: #3c3c3c;
+}
+.e{
+    color: #fff;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+h1{
+    margin-top: 200px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: #ffff;
+    padding: 8px 20px;
+    background-color: #E0484B;
+    border-radius: 35px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    transition: 1s all ease;
+
+}
+a:hover{
+    background-color: #7a191b;
+}
+
+#ins{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
